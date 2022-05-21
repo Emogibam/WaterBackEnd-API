@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RomanyWaterAPI.BusinessLogic\RomanyWaterAPI.BusinessLogic.csproj" />
+    <ProjectReference Include="..\RomanyWaterAPI.Data\RomanyWaterAPI.Data.csproj" />
+    <ProjectReference Include="..\RomanyWaterAPI.Domain\RomanyWaterAPI.Domain.csproj" />
+    <ProjectReference Include="..\RomanyWaterAPI.DTO\RomanyWaterAPI.DTO.csproj" />
+  </ItemGroup>
+
+</Project>

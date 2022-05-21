@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanyWaterAPI", "RomanyWaterAPI\RomanyWaterAPI.csproj", "{D8CE8BD4-6EC2-4A3F-B3DE-9DDE1A8ADE0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanyWaterAPI.BusinessLogic", "RomanyWaterAPI.BusinessLogic\RomanyWaterAPI.BusinessLogic.csproj", "{C73252F6-DB65-44F4-A78B-2BF18AEF86BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanyWaterAPI.Data", "RomanyWaterAPI.Data\RomanyWaterAPI.Data.csproj", "{2955D986-E48C-4802-8D52-3FF75ED94247}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanyWaterAPI.Domain", "RomanyWaterAPI.Domain\RomanyWaterAPI.Domain.csproj", "{1A48A3A4-C850-4E56-93AA-95BDBD9459AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanyWaterAPI.DTO", "RomanyWaterAPI.DTO\RomanyWaterAPI.DTO.csproj", "{CFB1060F-C38D-4480-8DE1-F6E30AF9B26C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanyWaterAPI.Tests", "RomanyWaterAPI.Tests\RomanyWaterAPI.Tests.csproj", "{CBE84980-188E-49C9-943F-910383C0B266}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8CE8BD4-6EC2-4A3F-B3DE-9DDE1A8ADE0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8CE8BD4-6EC2-4A3F-B3DE-9DDE1A8ADE0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8CE8BD4-6EC2-4A3F-B3DE-9DDE1A8ADE0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8CE8BD4-6EC2-4A3F-B3DE-9DDE1A8ADE0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C73252F6-DB65-44F4-A78B-2BF18AEF86BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C73252F6-DB65-44F4-A78B-2BF18AEF86BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C73252F6-DB65-44F4-A78B-2BF18AEF86BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C73252F6-DB65-44F4-A78B-2BF18AEF86BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2955D986-E48C-4802-8D52-3FF75ED94247}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2955D986-E48C-4802-8D52-3FF75ED94247}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2955D986-E48C-4802-8D52-3FF75ED94247}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2955D986-E48C-4802-8D52-3FF75ED94247}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A48A3A4-C850-4E56-93AA-95BDBD9459AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A48A3A4-C850-4E56-93AA-95BDBD9459AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A48A3A4-C850-4E56-93AA-95BDBD9459AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A48A3A4-C850-4E56-93AA-95BDBD9459AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFB1060F-C38D-4480-8DE1-F6E30AF9B26C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFB1060F-C38D-4480-8DE1-F6E30AF9B26C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFB1060F-C38D-4480-8DE1-F6E30AF9B26C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFB1060F-C38D-4480-8DE1-F6E30AF9B26C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBE84980-188E-49C9-943F-910383C0B266}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBE84980-188E-49C9-943F-910383C0B266}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBE84980-188E-49C9-943F-910383C0B266}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBE84980-188E-49C9-943F-910383C0B266}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27B7B628-6562-45CD-88A3-BBC6AA07C7E8}
+	EndGlobalSection
+EndGlobal
