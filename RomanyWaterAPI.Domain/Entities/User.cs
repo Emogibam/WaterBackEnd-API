@@ -15,6 +15,7 @@ namespace AquaWater.Domain.Entities
         public DateTime RefreshTokenCreatedAt { get; set; }
         public DateTime RefreshTokenExpiryAt { get; set; }
         public string ProfilePictureUrl { get; set; }
+        public bool IsActive { get; set; }
         public virtual Location Location { get; set; }
         public virtual ICollection<Notification> Notification { get; set; }
     }

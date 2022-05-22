@@ -66,3 +66,17 @@ C:\Users\hp\Desktop\MypersonalProject\WaterAPI\RomanyWaterAPI\bin\Debug\net5.0\R
 C:\Users\hp\Desktop\MypersonalProject\WaterAPI\RomanyWaterAPI\bin\Debug\net5.0\RomanyWaterAPI.Data.pdb
 C:\Users\hp\Desktop\MypersonalProject\WaterAPI\RomanyWaterAPI\bin\Debug\net5.0\RomanyWaterAPI.Domain.pdb
 C:\Users\hp\Desktop\MypersonalProject\WaterAPI\RomanyWaterAPI\bin\Debug\net5.0\RomanyWaterAPI.DTO.pdb
+C:\Users\hp\Desktop\MypersonalProject\WaterAPI\RomanyWaterAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\hp\Desktop\MypersonalProject\WaterAPI\RomanyWaterAPI\bin\Debug\net5.0\Lambda2Js.Signed.dll
+C:\Users\hp\Desktop\MypersonalProject\WaterAPI\RomanyWaterAPI\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\hp\Desktop\MypersonalProject\WaterAPI\RomanyWaterAPI\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\Desktop\MypersonalProject\WaterAPI\RomanyWaterAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hp\Desktop\MypersonalProject\WaterAPI\RomanyWaterAPI\bin\Debug\net5.0\Raven.Client.dll
+C:\Users\hp\Desktop\MypersonalProject\WaterAPI\RomanyWaterAPI\bin\Debug\net5.0\Sparrow.dll
+C:\Users\hp\Desktop\MypersonalProject\WaterAPI\RomanyWaterAPI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\Desktop\MypersonalProject\WaterAPI\RomanyWaterAPI\bin\Debug\net5.0\runtimes\linux-arm\native\libzstd.arm.32.so
+C:\Users\hp\Desktop\MypersonalProject\WaterAPI\RomanyWaterAPI\bin\Debug\net5.0\runtimes\linux-arm64\native\libzstd.arm.64.so
+C:\Users\hp\Desktop\MypersonalProject\WaterAPI\RomanyWaterAPI\bin\Debug\net5.0\runtimes\linux-x64\native\libzstd.linux.x64.so
+C:\Users\hp\Desktop\MypersonalProject\WaterAPI\RomanyWaterAPI\bin\Debug\net5.0\runtimes\osx-x64\native\libzstd.mac.x64.dylib
+C:\Users\hp\Desktop\MypersonalProject\WaterAPI\RomanyWaterAPI\bin\Debug\net5.0\runtimes\win-x64\native\libzstd.win.x64.dll
+C:\Users\hp\Desktop\MypersonalProject\WaterAPI\RomanyWaterAPI\bin\Debug\net5.0\runtimes\win-x86\native\libzstd.win.x86.dll

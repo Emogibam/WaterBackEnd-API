@@ -1,6 +1,8 @@
+using AquaWater.Domain.Entities;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
@@ -8,7 +10,9 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using RomanyWaterAPI.BusinessLogic.ConfigurationExtentions;
 using RomanyWaterAPI.Data.Context;
+using RomanyWaterAPI.Data.Seed;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -32,14 +36,19 @@ namespace RomanyWaterAPI
              getAssembly => getAssembly.MigrationsAssembly(typeof(AppDbContext).Assembly.FullName)
             ));
             services.AddControllers();
-            services.AddSwaggerGen(c =>
-            {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "RomanyWaterAPI", Version = "v1" });
-            });
+            services.ConfigureServices();
+            services.AddSwaggerConfiguration();
+            services.ConfigurationIdentity();
+            services.ConfigureAuthentication(Configuration);
+            //services.AddSwaggerGen(c =>
+            //{
+            //    c.SwaggerDoc("v1", new OpenApiInfo { Title = "RomanyWaterAPI", Version = "v1" });
+            //});
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env,
+            RoleManager<IdentityRole> roleManager, UserManager<User> userManager, AppDbContext dbContext)
         {
             if (env.IsDevelopment())
             {
@@ -53,6 +62,7 @@ namespace RomanyWaterAPI
             app.UseRouting();
 
             app.UseAuthorization();
+            Seeder.Seed(roleManager, userManager, dbContext).GetAwaiter().GetResult();
 
             app.UseEndpoints(endpoints =>
             {

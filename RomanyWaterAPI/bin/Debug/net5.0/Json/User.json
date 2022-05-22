@@ -6,8 +6,9 @@
 		"CreatedAt": "2018-12-05",
 		"UpdatedAt": "2019-05-12",
 		"Email": "SingaporePalau@gmail.com",
-		"UserName" :  "SingaporePalau@gmail.com",
+		"UserName": "SingaporePalau@gmail.com",
 		"ProfilePictureUrl": "https://generated.photos/face-generator/626cf780c71546000ee8bc5a",
+		"IsActive": true,
 		"Location": {
 			"Country": "Singapore",
 			"State": "Palau",
@@ -27,6 +28,7 @@
 		"Email": "BoothGriffith@gmail.com",
 		"UserName": "BoothGriffith@gmail.com",
 		"ProfilePictureUrl": "https://generated.photos/face-generator/626cf780c71546000ee8bc5a",
+		"IsActive": true,
 		"Location": {
 			"Country": "France, Metropolitan",
 			"State": "Utah",
@@ -46,6 +48,7 @@
 		"Email": "YeseniaSargent@gmail.com",
 		"UserName": "YeseniaSargent@gmail.com",
 		"ProfilePictureUrl": "https://generated.photos/face-generator/626cf780c71546000ee8bc5a",
+		"IsActive": true,
 		"Location": {
 			"Country": "Somalia",
 			"State": "Florida",
@@ -65,6 +68,7 @@
 		"Email": "WilderFreeman@gmsil.com",
 		"UserName": "WilderFreeman@gmsil.com",
 		"ProfilePictureUrl": "https://generated.photos/face-generator/626cf780c71546000ee8bc5a",
+		"IsActive": true,
 		"Location": {
 			"Country": "South Africa",
 			"State": "Virginia",
@@ -84,6 +88,7 @@
 		"Email": "CameronPrince@gmail.com",
 		"UserName": "CameronPrince@gmail.com",
 		"ProfilePictureUrl": "https://generated.photos/face-generator/626cf780c71546000ee8bc5a",
+		"IsActive": true,
 		"Location": {
 			"Country": "Iceland",
 			"State": "Kansas",
@@ -103,6 +108,7 @@
 		"Email": "WoodHendrix@gmail.com",
 		"UserName": "WoodHendrix@gmail.com",
 		"ProfilePictureUrl": "https://generated.photos/face-generator/626cf780c71546000ee8bc5a",
+		"IsActive": true,
 		"Location": {
 			"Country": "Ghana",
 			"State": "Maryland",
@@ -122,6 +128,7 @@
 		"Email": "BrennanJenkins@gmail.com",
 		"UserName": "BoothJenkins@gmail.com",
 		"ProfilePictureUrl": "https://generated.photos/face-generator/626cf780c71546000ee8bc5a",
+		"IsActive": true,
 		"Location": {
 			"Country": "Niger",
 			"State": "New Mexico",
@@ -141,6 +148,7 @@
 		"Email": "MadelynSharp@gmail.com",
 		"UserName": "MadelynSharp@gmail.com",
 		"ProfilePictureUrl": "https://generated.photos/face-generator/626cf780c71546000ee8bc5a",
+		"IsActive": true,
 		"Location": {
 			"Country": "Antarctica",
 			"State": "Hawaii",
@@ -160,6 +168,7 @@
 		"Email": "GrantJohns@gmail.com",
 		"UserName": "GrantJohns@gmail.com",
 		"ProfilePictureUrl": "https://generated.photos/face-generator/626cf780c71546000ee8bc5a",
+		"IsActive": true,
 		"Location": {
 			"Country": "Indonesia",
 			"State": "Michigan",
@@ -179,6 +188,7 @@
 		"Email": "OlaConway@gmail.com",
 		"UserName": "OlaConway@gmail.com",
 		"ProfilePictureUrl": "https://generated.photos/face-generator/626cf780c71546000ee8bc5a",
+		"IsActive": true,
 		"Location": {
 			"Country": "S. Georgia and S. Sandwich Isls.",
 			"State": "Rhode Island",
@@ -198,6 +208,7 @@
 		"Email": "GretchenBuchanan@gmail.com",
 		"UserName": "GretchenBuchanan@gmail.com",
 		"ProfilePictureUrl": "https://generated.photos/face-generator/626cf780c71546000ee8bc5a",
+		"IsActive": true,
 		"Location": {
 			"Country": "Switzerland",
 			"State": "Georgia",
@@ -217,6 +228,7 @@
 		"Email": "JuneMorrow@gmail.com",
 		"UserName": "JuneMorrow@gmail.com",
 		"ProfilePictureUrl": "https://generated.photos/face-generator/626cf780c71546000ee8bc5a",
+		"IsActive": true,
 		"Location": {
 			"Country": "French Guiana",
 			"State": "Connecticut",
@@ -236,6 +248,7 @@
 		"Email": "BrayPage@gmail.com",
 		"UserName": "BrayPage@gmail.com",
 		"ProfilePictureUrl": "https://generated.photos/face-generator/626cf780c71546000ee8bc5a",
+		"IsActive": true,
 		"Location": {
 			"Country": "Iraq",
 			"State": "New Jersey",
@@ -255,6 +268,7 @@
 		"Email": "BonnerHaley@gmail.com",
 		"UserName": "BonnerHaley@gmail.com",
 		"ProfilePictureUrl": "https://generated.photos/face-generator/626cf780c71546000ee8bc5a",
+		"IsActive": true,
 		"Location": {
 			"Country": "Barbados",
 			"State": "Alabama",
