@@ -5,6 +5,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="11.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\RomanyWaterAPI.Data\RomanyWaterAPI.Data.csproj" />
     <ProjectReference Include="..\RomanyWaterAPI.Domain\RomanyWaterAPI.Domain.csproj" />
     <ProjectReference Include="..\RomanyWaterAPI.DTO\RomanyWaterAPI.DTO.csproj" />
