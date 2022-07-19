@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\Desktop\\MypersonalProject\\WaterAPI\\RomanyWaterAPI\\RomanyWaterAPI.csproj": {}
+    "C:\\Users\\hp\\Desktop\\decagon\\RomanayAPI\\WaterBackEnd-API\\RomanyWaterAPI\\RomanyWaterAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\Desktop\\MypersonalProject\\WaterAPI\\RomanyWaterAPI.BusinessLogic\\RomanyWaterAPI.BusinessLogic.csproj": {
+    "C:\\Users\\hp\\Desktop\\decagon\\RomanayAPI\\WaterBackEnd-API\\RomanyWaterAPI.BusinessLogic\\RomanyWaterAPI.BusinessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Desktop\\MypersonalProject\\WaterAPI\\RomanyWaterAPI.BusinessLogic\\RomanyWaterAPI.BusinessLogic.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\decagon\\RomanayAPI\\WaterBackEnd-API\\RomanyWaterAPI.BusinessLogic\\RomanyWaterAPI.BusinessLogic.csproj",
         "projectName": "RomanyWaterAPI.BusinessLogic",
-        "projectPath": "C:\\Users\\hp\\Desktop\\MypersonalProject\\WaterAPI\\RomanyWaterAPI.BusinessLogic\\RomanyWaterAPI.BusinessLogic.csproj",
+        "projectPath": "C:\\Users\\hp\\Desktop\\decagon\\RomanayAPI\\WaterBackEnd-API\\RomanyWaterAPI.BusinessLogic\\RomanyWaterAPI.BusinessLogic.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Desktop\\MypersonalProject\\WaterAPI\\RomanyWaterAPI.BusinessLogic\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\decagon\\RomanayAPI\\WaterBackEnd-API\\RomanyWaterAPI.BusinessLogic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,14 +32,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\hp\\Desktop\\MypersonalProject\\WaterAPI\\RomanyWaterAPI.Data\\RomanyWaterAPI.Data.csproj": {
-                "projectPath": "C:\\Users\\hp\\Desktop\\MypersonalProject\\WaterAPI\\RomanyWaterAPI.Data\\RomanyWaterAPI.Data.csproj"
+              "C:\\Users\\hp\\Desktop\\decagon\\RomanayAPI\\WaterBackEnd-API\\RomanyWaterAPI.Data\\RomanyWaterAPI.Data.csproj": {
+                "projectPath": "C:\\Users\\hp\\Desktop\\decagon\\RomanayAPI\\WaterBackEnd-API\\RomanyWaterAPI.Data\\RomanyWaterAPI.Data.csproj"
               },
-              "C:\\Users\\hp\\Desktop\\MypersonalProject\\WaterAPI\\RomanyWaterAPI.Domain\\RomanyWaterAPI.Domain.csproj": {
-                "projectPath": "C:\\Users\\hp\\Desktop\\MypersonalProject\\WaterAPI\\RomanyWaterAPI.Domain\\RomanyWaterAPI.Domain.csproj"
+              "C:\\Users\\hp\\Desktop\\decagon\\RomanayAPI\\WaterBackEnd-API\\RomanyWaterAPI.Domain\\RomanyWaterAPI.Domain.csproj": {
+                "projectPath": "C:\\Users\\hp\\Desktop\\decagon\\RomanayAPI\\WaterBackEnd-API\\RomanyWaterAPI.Domain\\RomanyWaterAPI.Domain.csproj"
               },
-              "C:\\Users\\hp\\Desktop\\MypersonalProject\\WaterAPI\\RomanyWaterAPI.DTO\\RomanyWaterAPI.DTO.csproj": {
-                "projectPath": "C:\\Users\\hp\\Desktop\\MypersonalProject\\WaterAPI\\RomanyWaterAPI.DTO\\RomanyWaterAPI.DTO.csproj"
+              "C:\\Users\\hp\\Desktop\\decagon\\RomanayAPI\\WaterBackEnd-API\\RomanyWaterAPI.DTO\\RomanyWaterAPI.DTO.csproj": {
+                "projectPath": "C:\\Users\\hp\\Desktop\\decagon\\RomanayAPI\\WaterBackEnd-API\\RomanyWaterAPI.DTO\\RomanyWaterAPI.DTO.csproj"
               }
             }
           }
@@ -57,6 +57,10 @@
             "AutoMapper": {
               "target": "Package",
               "version": "[11.0.1, )"
+            },
+            "MailKit": {
+              "target": "Package",
+              "version": "[3.3.0, )"
             }
           },
           "imports": [
@@ -78,14 +82,14 @@
         }
       }
     },
-    "C:\\Users\\hp\\Desktop\\MypersonalProject\\WaterAPI\\RomanyWaterAPI.Data\\RomanyWaterAPI.Data.csproj": {
+    "C:\\Users\\hp\\Desktop\\decagon\\RomanayAPI\\WaterBackEnd-API\\RomanyWaterAPI.Data\\RomanyWaterAPI.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Desktop\\MypersonalProject\\WaterAPI\\RomanyWaterAPI.Data\\RomanyWaterAPI.Data.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\decagon\\RomanayAPI\\WaterBackEnd-API\\RomanyWaterAPI.Data\\RomanyWaterAPI.Data.csproj",
         "projectName": "RomanyWaterAPI.Data",
-        "projectPath": "C:\\Users\\hp\\Desktop\\MypersonalProject\\WaterAPI\\RomanyWaterAPI.Data\\RomanyWaterAPI.Data.csproj",
+        "projectPath": "C:\\Users\\hp\\Desktop\\decagon\\RomanayAPI\\WaterBackEnd-API\\RomanyWaterAPI.Data\\RomanyWaterAPI.Data.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Desktop\\MypersonalProject\\WaterAPI\\RomanyWaterAPI.Data\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\decagon\\RomanayAPI\\WaterBackEnd-API\\RomanyWaterAPI.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -106,11 +110,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\hp\\Desktop\\MypersonalProject\\WaterAPI\\RomanyWaterAPI.Domain\\RomanyWaterAPI.Domain.csproj": {
-                "projectPath": "C:\\Users\\hp\\Desktop\\MypersonalProject\\WaterAPI\\RomanyWaterAPI.Domain\\RomanyWaterAPI.Domain.csproj"
+              "C:\\Users\\hp\\Desktop\\decagon\\RomanayAPI\\WaterBackEnd-API\\RomanyWaterAPI.Domain\\RomanyWaterAPI.Domain.csproj": {
+                "projectPath": "C:\\Users\\hp\\Desktop\\decagon\\RomanayAPI\\WaterBackEnd-API\\RomanyWaterAPI.Domain\\RomanyWaterAPI.Domain.csproj"
               },
-              "C:\\Users\\hp\\Desktop\\MypersonalProject\\WaterAPI\\RomanyWaterAPI.DTO\\RomanyWaterAPI.DTO.csproj": {
-                "projectPath": "C:\\Users\\hp\\Desktop\\MypersonalProject\\WaterAPI\\RomanyWaterAPI.DTO\\RomanyWaterAPI.DTO.csproj"
+              "C:\\Users\\hp\\Desktop\\decagon\\RomanayAPI\\WaterBackEnd-API\\RomanyWaterAPI.DTO\\RomanyWaterAPI.DTO.csproj": {
+                "projectPath": "C:\\Users\\hp\\Desktop\\decagon\\RomanayAPI\\WaterBackEnd-API\\RomanyWaterAPI.DTO\\RomanyWaterAPI.DTO.csproj"
               }
             }
           }
@@ -189,14 +193,14 @@
         }
       }
     },
-    "C:\\Users\\hp\\Desktop\\MypersonalProject\\WaterAPI\\RomanyWaterAPI.Domain\\RomanyWaterAPI.Domain.csproj": {
+    "C:\\Users\\hp\\Desktop\\decagon\\RomanayAPI\\WaterBackEnd-API\\RomanyWaterAPI.Domain\\RomanyWaterAPI.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Desktop\\MypersonalProject\\WaterAPI\\RomanyWaterAPI.Domain\\RomanyWaterAPI.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\decagon\\RomanayAPI\\WaterBackEnd-API\\RomanyWaterAPI.Domain\\RomanyWaterAPI.Domain.csproj",
         "projectName": "RomanyWaterAPI.Domain",
-        "projectPath": "C:\\Users\\hp\\Desktop\\MypersonalProject\\WaterAPI\\RomanyWaterAPI.Domain\\RomanyWaterAPI.Domain.csproj",
+        "projectPath": "C:\\Users\\hp\\Desktop\\decagon\\RomanayAPI\\WaterBackEnd-API\\RomanyWaterAPI.Domain\\RomanyWaterAPI.Domain.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Desktop\\MypersonalProject\\WaterAPI\\RomanyWaterAPI.Domain\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\decagon\\RomanayAPI\\WaterBackEnd-API\\RomanyWaterAPI.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -263,14 +267,14 @@
         }
       }
     },
-    "C:\\Users\\hp\\Desktop\\MypersonalProject\\WaterAPI\\RomanyWaterAPI.DTO\\RomanyWaterAPI.DTO.csproj": {
+    "C:\\Users\\hp\\Desktop\\decagon\\RomanayAPI\\WaterBackEnd-API\\RomanyWaterAPI.DTO\\RomanyWaterAPI.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Desktop\\MypersonalProject\\WaterAPI\\RomanyWaterAPI.DTO\\RomanyWaterAPI.DTO.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\decagon\\RomanayAPI\\WaterBackEnd-API\\RomanyWaterAPI.DTO\\RomanyWaterAPI.DTO.csproj",
         "projectName": "RomanyWaterAPI.DTO",
-        "projectPath": "C:\\Users\\hp\\Desktop\\MypersonalProject\\WaterAPI\\RomanyWaterAPI.DTO\\RomanyWaterAPI.DTO.csproj",
+        "projectPath": "C:\\Users\\hp\\Desktop\\decagon\\RomanayAPI\\WaterBackEnd-API\\RomanyWaterAPI.DTO\\RomanyWaterAPI.DTO.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Desktop\\MypersonalProject\\WaterAPI\\RomanyWaterAPI.DTO\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\decagon\\RomanayAPI\\WaterBackEnd-API\\RomanyWaterAPI.DTO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -291,8 +295,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\hp\\Desktop\\MypersonalProject\\WaterAPI\\RomanyWaterAPI.Domain\\RomanyWaterAPI.Domain.csproj": {
-                "projectPath": "C:\\Users\\hp\\Desktop\\MypersonalProject\\WaterAPI\\RomanyWaterAPI.Domain\\RomanyWaterAPI.Domain.csproj"
+              "C:\\Users\\hp\\Desktop\\decagon\\RomanayAPI\\WaterBackEnd-API\\RomanyWaterAPI.Domain\\RomanyWaterAPI.Domain.csproj": {
+                "projectPath": "C:\\Users\\hp\\Desktop\\decagon\\RomanayAPI\\WaterBackEnd-API\\RomanyWaterAPI.Domain\\RomanyWaterAPI.Domain.csproj"
               }
             }
           }
@@ -325,14 +329,14 @@
         }
       }
     },
-    "C:\\Users\\hp\\Desktop\\MypersonalProject\\WaterAPI\\RomanyWaterAPI\\RomanyWaterAPI.csproj": {
+    "C:\\Users\\hp\\Desktop\\decagon\\RomanayAPI\\WaterBackEnd-API\\RomanyWaterAPI\\RomanyWaterAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Desktop\\MypersonalProject\\WaterAPI\\RomanyWaterAPI\\RomanyWaterAPI.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\decagon\\RomanayAPI\\WaterBackEnd-API\\RomanyWaterAPI\\RomanyWaterAPI.csproj",
         "projectName": "RomanyWaterAPI",
-        "projectPath": "C:\\Users\\hp\\Desktop\\MypersonalProject\\WaterAPI\\RomanyWaterAPI\\RomanyWaterAPI.csproj",
+        "projectPath": "C:\\Users\\hp\\Desktop\\decagon\\RomanayAPI\\WaterBackEnd-API\\RomanyWaterAPI\\RomanyWaterAPI.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Desktop\\MypersonalProject\\WaterAPI\\RomanyWaterAPI\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\decagon\\RomanayAPI\\WaterBackEnd-API\\RomanyWaterAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -353,17 +357,17 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\hp\\Desktop\\MypersonalProject\\WaterAPI\\RomanyWaterAPI.BusinessLogic\\RomanyWaterAPI.BusinessLogic.csproj": {
-                "projectPath": "C:\\Users\\hp\\Desktop\\MypersonalProject\\WaterAPI\\RomanyWaterAPI.BusinessLogic\\RomanyWaterAPI.BusinessLogic.csproj"
+              "C:\\Users\\hp\\Desktop\\decagon\\RomanayAPI\\WaterBackEnd-API\\RomanyWaterAPI.BusinessLogic\\RomanyWaterAPI.BusinessLogic.csproj": {
+                "projectPath": "C:\\Users\\hp\\Desktop\\decagon\\RomanayAPI\\WaterBackEnd-API\\RomanyWaterAPI.BusinessLogic\\RomanyWaterAPI.BusinessLogic.csproj"
               },
-              "C:\\Users\\hp\\Desktop\\MypersonalProject\\WaterAPI\\RomanyWaterAPI.Data\\RomanyWaterAPI.Data.csproj": {
-                "projectPath": "C:\\Users\\hp\\Desktop\\MypersonalProject\\WaterAPI\\RomanyWaterAPI.Data\\RomanyWaterAPI.Data.csproj"
+              "C:\\Users\\hp\\Desktop\\decagon\\RomanayAPI\\WaterBackEnd-API\\RomanyWaterAPI.Data\\RomanyWaterAPI.Data.csproj": {
+                "projectPath": "C:\\Users\\hp\\Desktop\\decagon\\RomanayAPI\\WaterBackEnd-API\\RomanyWaterAPI.Data\\RomanyWaterAPI.Data.csproj"
               },
-              "C:\\Users\\hp\\Desktop\\MypersonalProject\\WaterAPI\\RomanyWaterAPI.Domain\\RomanyWaterAPI.Domain.csproj": {
-                "projectPath": "C:\\Users\\hp\\Desktop\\MypersonalProject\\WaterAPI\\RomanyWaterAPI.Domain\\RomanyWaterAPI.Domain.csproj"
+              "C:\\Users\\hp\\Desktop\\decagon\\RomanayAPI\\WaterBackEnd-API\\RomanyWaterAPI.Domain\\RomanyWaterAPI.Domain.csproj": {
+                "projectPath": "C:\\Users\\hp\\Desktop\\decagon\\RomanayAPI\\WaterBackEnd-API\\RomanyWaterAPI.Domain\\RomanyWaterAPI.Domain.csproj"
               },
-              "C:\\Users\\hp\\Desktop\\MypersonalProject\\WaterAPI\\RomanyWaterAPI.DTO\\RomanyWaterAPI.DTO.csproj": {
-                "projectPath": "C:\\Users\\hp\\Desktop\\MypersonalProject\\WaterAPI\\RomanyWaterAPI.DTO\\RomanyWaterAPI.DTO.csproj"
+              "C:\\Users\\hp\\Desktop\\decagon\\RomanayAPI\\WaterBackEnd-API\\RomanyWaterAPI.DTO\\RomanyWaterAPI.DTO.csproj": {
+                "projectPath": "C:\\Users\\hp\\Desktop\\decagon\\RomanayAPI\\WaterBackEnd-API\\RomanyWaterAPI.DTO\\RomanyWaterAPI.DTO.csproj"
               }
             }
           }
@@ -383,6 +387,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[5.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.17, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",

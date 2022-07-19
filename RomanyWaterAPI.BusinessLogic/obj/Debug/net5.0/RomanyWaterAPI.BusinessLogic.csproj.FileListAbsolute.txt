@@ -17,3 +17,11 @@ C:\Users\hp\Desktop\MypersonalProject\WaterAPI\RomanyWaterAPI.BusinessLogic\bin\
 C:\Users\hp\Desktop\MypersonalProject\WaterAPI\RomanyWaterAPI.BusinessLogic\bin\Debug\net5.0\RomanyWaterAPI.Domain.pdb
 C:\Users\hp\Desktop\MypersonalProject\WaterAPI\RomanyWaterAPI.BusinessLogic\bin\Debug\net5.0\RomanyWaterAPI.DTO.pdb
 C:\Users\hp\Desktop\MypersonalProject\WaterAPI\RomanyWaterAPI.BusinessLogic\obj\Debug\net5.0\RomanyWaterAPI.BusinessLogic.csproj.CopyComplete
+C:\Users\hp\Desktop\decagon\RomanayAPI\WaterBackEnd-API\RomanyWaterAPI.BusinessLogic\obj\Debug\net5.0\RomanyWaterAPI.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\decagon\RomanayAPI\WaterBackEnd-API\RomanyWaterAPI.BusinessLogic\obj\Debug\net5.0\RomanyWaterAPI.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\decagon\RomanayAPI\WaterBackEnd-API\RomanyWaterAPI.BusinessLogic\obj\Debug\net5.0\RomanyWaterAPI.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\decagon\RomanayAPI\WaterBackEnd-API\RomanyWaterAPI.BusinessLogic\obj\Debug\net5.0\RomanyWaterAPI.BusinessLogic.AssemblyInfo.cs
+C:\Users\hp\Desktop\decagon\RomanayAPI\WaterBackEnd-API\RomanyWaterAPI.BusinessLogic\obj\Debug\net5.0\RomanyWaterAPI.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\decagon\RomanayAPI\WaterBackEnd-API\RomanyWaterAPI.BusinessLogic\obj\Debug\net5.0\RomanyWaterAPI.BusinessLogic.dll
+C:\Users\hp\Desktop\decagon\RomanayAPI\WaterBackEnd-API\RomanyWaterAPI.BusinessLogic\obj\Debug\net5.0\refint\RomanyWaterAPI.BusinessLogic.dll
+C:\Users\hp\Desktop\decagon\RomanayAPI\WaterBackEnd-API\RomanyWaterAPI.BusinessLogic\obj\Debug\net5.0\RomanyWaterAPI.BusinessLogic.pdb

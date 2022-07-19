@@ -80,3 +80,13 @@ C:\Users\hp\Desktop\MypersonalProject\WaterAPI\RomanyWaterAPI\bin\Debug\net5.0\r
 C:\Users\hp\Desktop\MypersonalProject\WaterAPI\RomanyWaterAPI\bin\Debug\net5.0\runtimes\osx-x64\native\libzstd.mac.x64.dylib
 C:\Users\hp\Desktop\MypersonalProject\WaterAPI\RomanyWaterAPI\bin\Debug\net5.0\runtimes\win-x64\native\libzstd.win.x64.dll
 C:\Users\hp\Desktop\MypersonalProject\WaterAPI\RomanyWaterAPI\bin\Debug\net5.0\runtimes\win-x86\native\libzstd.win.x86.dll
+C:\Users\hp\Desktop\decagon\RomanayAPI\WaterBackEnd-API\RomanyWaterAPI\obj\Debug\net5.0\RomanyWaterAPI.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\decagon\RomanayAPI\WaterBackEnd-API\RomanyWaterAPI\obj\Debug\net5.0\RomanyWaterAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\decagon\RomanayAPI\WaterBackEnd-API\RomanyWaterAPI\obj\Debug\net5.0\RomanyWaterAPI.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\decagon\RomanayAPI\WaterBackEnd-API\RomanyWaterAPI\obj\Debug\net5.0\RomanyWaterAPI.AssemblyInfo.cs
+C:\Users\hp\Desktop\decagon\RomanayAPI\WaterBackEnd-API\RomanyWaterAPI\obj\Debug\net5.0\RomanyWaterAPI.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\decagon\RomanayAPI\WaterBackEnd-API\RomanyWaterAPI\obj\Debug\net5.0\RomanyWaterAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\Desktop\decagon\RomanayAPI\WaterBackEnd-API\RomanyWaterAPI\obj\Debug\net5.0\RomanyWaterAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\decagon\RomanayAPI\WaterBackEnd-API\RomanyWaterAPI\obj\Debug\net5.0\RomanyWaterAPI.dll
+C:\Users\hp\Desktop\decagon\RomanayAPI\WaterBackEnd-API\RomanyWaterAPI\obj\Debug\net5.0\refint\RomanyWaterAPI.dll
+C:\Users\hp\Desktop\decagon\RomanayAPI\WaterBackEnd-API\RomanyWaterAPI\obj\Debug\net5.0\RomanyWaterAPI.pdb

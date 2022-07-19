@@ -32,9 +32,15 @@ namespace RomanyWaterAPI
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContext<AppDbContext>(options => options.UseNpgsql(Configuration.GetConnectionString("DefaultConnection"),
-             getAssembly => getAssembly.MigrationsAssembly(typeof(AppDbContext).Assembly.FullName)
-            ));
+            //services.AddDbContext<AppDbContext>(options => options.SqlLite(Configuration.GetConnectionString("DefaultConnection"),
+            // getAssembly => getAssembly.MigrationsAssembly(typeof(AppDbContext).Assembly.FullName)
+            //));
+
+            services.AddDbContext<AppDbContext>(options =>
+           options.UseSqlite(
+               Configuration.GetConnectionString("DefaultConnection")
+               ));
+
             services.AddControllers();
             services.ConfigureServices();
             services.AddSwaggerConfiguration();

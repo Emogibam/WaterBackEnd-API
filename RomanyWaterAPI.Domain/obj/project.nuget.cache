@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dlDVvvFMzc82NJApt8/owStPh/8SNHbyqy9WcRh+d/VZ2tFNCUguk34rfiWKQhWTZKaJVl6s4PTa/6USGLaLlg==",
+  "dgSpecHash": "GhWGKkY3LwO/E08ZMh48aLMwWIlBsEJb26J8/IdcAOSOpXEAoORX9gm0hbDF8I/2fTccrkGdFYCEo8GeBD/7ZA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp\\Desktop\\MypersonalProject\\WaterAPI\\RomanyWaterAPI.Domain\\RomanyWaterAPI.Domain.csproj",
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\decagon\\RomanayAPI\\WaterBackEnd-API\\RomanyWaterAPI.Domain\\RomanyWaterAPI.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.17\\microsoft.aspnetcore.cryptography.internal.5.0.17.nupkg.sha512",
